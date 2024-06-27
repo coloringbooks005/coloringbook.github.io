@@ -823,6 +823,7 @@ a {
 .cid-ugKdQyCXm6 .navbar-nav {
   margin: auto;
   margin-left: 0;
+  margin-left: auto;
 }
 .cid-ugKdQyCXm6 .navbar-nav .nav-item {
   padding: 0 !important;
@@ -1343,8 +1344,8 @@ a {
   }
 }
 .cid-ugKnS6Z5We {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 10rem;
+  padding-bottom: 0rem;
   background-color: #a3b3e9;
 }
 .cid-ugKnS6Z5We .mbr-fallback-image.disabled {
@@ -1668,6 +1669,7 @@ a {
 .cid-ugKdQyCXm6 .navbar-nav {
   margin: auto;
   margin-left: 0;
+  margin-left: auto;
 }
 .cid-ugKdQyCXm6 .navbar-nav .nav-item {
   padding: 0 !important;
